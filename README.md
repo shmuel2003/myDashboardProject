@@ -26,7 +26,6 @@ my_dashboard_project/
 
 pip install -r requirements.txt
 
----
 להרצת האפליקציה:
 
 
